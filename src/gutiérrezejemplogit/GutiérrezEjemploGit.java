@@ -18,6 +18,7 @@ public class GutiérrezEjemploGit {
         // TODO code application logic here
         System.out.println("Mª José gutiérrez Pérez");
         System.out.println("VERSION 1");
+        System.out.println("VERSIÓN 2");
     }
     
 }
